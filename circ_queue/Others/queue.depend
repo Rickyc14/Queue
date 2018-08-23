@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1534988617 source:c:\users\ricar\downloads\c\hub\github_queue\circ_queue\functions.c
+	<main.h>
+
+1534988617 c:\users\ricar\downloads\c\hub\github_queue\circ_queue\\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

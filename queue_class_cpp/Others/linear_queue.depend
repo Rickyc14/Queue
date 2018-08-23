@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1534977892 source:c:\users\ricar\downloads\c\hub\linear_queue\main.cpp
+	<iostream>
+	<list>
+	<queue>
+	<deque>
+
